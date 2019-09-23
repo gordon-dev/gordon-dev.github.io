@@ -26,6 +26,8 @@ But wait, what if the Project Manager could actually code?...
 
 
 ```
+See my first repository, an always-required "hello world".
+https://github.com/gordon-dev/hello-world
 
 ### Support or Contact
 
